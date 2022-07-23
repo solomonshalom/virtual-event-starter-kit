@@ -102,8 +102,6 @@ For this we pass a query param in url for eg: `/stage/a?role=<ROLE_NAME>`
 
 So if you visit `/stage/a?role=stage` now you should see a Preview screen opening up. After joining you should be able to see yourselves. Open a new tab or invite others to host your next meetup, community calls, etc.
 
-![preview](/media/preview.png)
-
 ### Customize
 
 #### Live Video
